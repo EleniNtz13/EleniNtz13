@@ -1,8 +1,9 @@
 ## Hi there 👋
 I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️🏺 
 
-You can find me 🕵🏻 on the LinkedIn platform at the following link: https://www.linkedin.com/in/eleni-ntzani-059698310/
-
+You can find me 🕵🏻 
+- 👩🏻‍💻 on the LinkedIn platform at the following link: https://www.linkedin.com/in/eleni-ntzani-059698310/  
+- 📧 at gmail: elenintzani@gmail.com
 
 <!--
 **EleniNtz13/EleniNtz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
