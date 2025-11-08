@@ -2,7 +2,7 @@
 I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️🏺 of Greece 💙🤍
 
 You can find me 🕵🏻 
-- 👩🏻‍💻 on the LinkedIn platform at the following link: https://www.linkedin.com/in/eleni-ntzani-059698310/  
+- 👩🏻‍💻 on LinkedIn platform at the following link: https://www.linkedin.com/in/eleni-ntzani-059698310/  
 - 📧 at Gmail: elenintzani@gmail.com
 
 <!--
