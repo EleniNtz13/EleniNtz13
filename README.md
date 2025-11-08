@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️🏺 
+I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️🏺 of Greece 💙🤍
 
 You can find me 🕵🏻 
 - 👩🏻‍💻 on the LinkedIn platform at the following link: https://www.linkedin.com/in/eleni-ntzani-059698310/  
