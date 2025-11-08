@@ -1,5 +1,6 @@
 ## Hi there 👋
 I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️🏺 
+You can find me 🕵🏻 on the LInkedin platform 
 
 
 <!--
