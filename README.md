@@ -1,6 +1,5 @@
 ## Hi there 👋
-I am Eleni 😊
-
+I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️🏺 
 
 
 <!--
