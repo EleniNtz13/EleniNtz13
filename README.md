@@ -3,7 +3,7 @@ I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️
 
 You can find me 🕵🏻 
 - 👩🏻‍💻 on LinkedIn platform at the following link: https://www.linkedin.com/in/eleni-ntzani-059698310/  
-- 📧 at Gmail: elenintzani@gmail.com
+- 📧 on Gmail at the following link: elenintzani@gmail.com
 
 <!--
 **EleniNtz13/EleniNtz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
