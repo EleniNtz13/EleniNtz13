@@ -4,6 +4,7 @@ I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️
 You can find me 🕵🏻 
 - 👩🏻‍💻 on LinkedIn platform at the following link: https://www.linkedin.com/in/eleni-ntzani-059698310/  
 - 📧 on Gmail at the following link: elenintzani@gmail.com
+- 💼 on Upwork: https://www.upwork.com/freelancers/~0186be2d67a270c8c4
 
 <!--
 **EleniNtz13/EleniNtz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
