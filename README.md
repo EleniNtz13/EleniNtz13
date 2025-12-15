@@ -1,6 +1,14 @@
 ## Hi there 👋
 I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️🏺 of Greece 💙🤍
 
+This GitHub repository contains projects and work completed during my undergraduate studies from *2021 to 2026*. Here, you will find:
+
+- **Academic Projects**: Repositories of assignments and projects carried out as part of my undergraduate coursework.
+- **Conferences**: Information and materials from conferences I have participated in.
+- **Internship**: Documentation and work completed during my internship.
+
+This space showcases my learning journey, practical experience, and contributions to various academic and professional activities.
+
 You can find me 🕵🏻 
 - 👩🏻‍💻 on LinkedIn platform at the following link: https://www.linkedin.com/in/eleni-ntzani-059698310/  
 - 📧 on Gmail at the following link: elenintzani@gmail.com
