@@ -9,7 +9,7 @@ Here, you will find:
 - **Conferences**🎤: Information and materials from conferences I have participated in.
 - **Internship**💼: Documentation and work completed during my internship.
 
-This space showcases my learning journey, practical experience, and contributions to various academic and professional activities.
+This space showcases my learning journey, practical experience, and contributions to various academic and professional activities✨.
 
 You can find me 🕵🏻 
 - 👩🏻‍💻 on LinkedIn platform at the following link: https://www.linkedin.com/in/eleni-ntzani-059698310/  
