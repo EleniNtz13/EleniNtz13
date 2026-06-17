@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Welcome to My GitHub 🚀
-I am Eleni 😊, a student at the UoP Digital Systems 💻 in Sparta 📜🏛️🏺 of Greece 💙🤍
+I am Eleni 😊. I attended as a student at the UoP Digital Systems 💻 in Sparta 📜🏛️🏺 of Greece 💙🤍 and now I'm graduated with a Bachelor's degree.
 
 This GitHub repository contains projects and work completed during my undergraduate studies from *2021 to 2026* 🎓. 
 Here, you will find:
